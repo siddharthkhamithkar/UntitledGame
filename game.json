@@ -1,5 +1,4 @@
-db.data.insertMany(
-    [
+[
         {
 	    "Title" : "Tom Clancy's Ghost Recon Wildlands",
 	    "Year" : NumberLong(2017),
@@ -78,5 +77,4 @@ db.data.insertMany(
       "Rating" : "Mixed",
       "Genre" : "World War II, Action, Multiplayer, Zombies"
         }
-    ]
-);
+]
