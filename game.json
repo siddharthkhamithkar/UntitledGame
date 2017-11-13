@@ -1,4 +1,4 @@
-[
+db.data.insert([
         {
 	    "Title" : "Tom Clancy's Ghost Recon Wildlands",
 	    "Year" : "NumberLong(2017)",
@@ -78,3 +78,4 @@
       "Genre" : "World War II, Action, Multiplayer, Zombies"
         }
 ]
+);
