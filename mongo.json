@@ -1,6 +1,6 @@
 db.test.insert({
   "My Name" : "Siddharth",
-  "My Age" : NumberLong(14),
+  "My Age" : "NumberLong(14)",
   "My Interests" :
     {
     "Game" : "RuneScape",
