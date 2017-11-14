@@ -76,6 +76,9 @@ db.data.insert([
       "Year" : "NumberLong(2017)",
       "Rating" : "Mixed",
       "Genre" : "World War II, Action, Multiplayer, Zombies"
+        },
+        {
+      "_comment" : "This data was taken from Steam pages for the given games."
         }
 ]
 );
