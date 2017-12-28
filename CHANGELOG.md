@@ -1,14 +1,14 @@
 First RPG Changelog
 
 2017-12-28
-Added-
--Battle background.
+Added- <br>
+-Battle background.<br>
 
-Changed-
--None.
+Changed- <br>
+-None. <br>
 
-Removed-
--Pan map when in battle.
+Removed- <br>
+-Pan map when in battle. <br>
 
-Fix-
--Fixed Battle background.
+Fix- <br>
+-Fixed Battle background. <br>
