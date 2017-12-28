@@ -12,3 +12,4 @@ Removed- <br>
 
 Fix- <br>
 -Fixed Battle background. <br>
+-Fixed teleport from main town to Harold's neighbourhood.<br>s
