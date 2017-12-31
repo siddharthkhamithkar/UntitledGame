@@ -30,3 +30,17 @@ Removed-<br>
 
 Fix-<br>
 -none<br>
+
+2017-12-31<br>
+Added-<br>
+-Quest which can be accessed in the pub.<br>
+-Ruined Town.<br>
+
+Changed-<br>
+-None<br>
+
+Removed-<br>
+-None<br>
+
+Fix-<br>
+-None<br>
